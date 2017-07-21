@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Access Denied</title>
+</head>
+<body>
+    <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal">
+        <DynamicHoverStyle BackColor="#6699FF" />
+        <Items>
+            <asp:MenuItem NavigateUrl="PublicPage.aspx" Text="Home" Value="Home"></asp:MenuItem>
+            <asp:MenuItem NavigateUrl="locationinfo.aspx" Text="Location Information" Value="Location Information"></asp:MenuItem>
+            <asp:MenuItem NavigateUrl="EmployeeUpdatePage.aspx" Text="Update Information" Value="Update Information"></asp:MenuItem>
+            <asp:MenuItem NavigateUrl="PromotDemotePage.aspx" Text="Promote/Demote" Value="Promote/Demote"></asp:MenuItem>
+            <asp:MenuItem NavigateUrl="LogOutPage.aspx" Text="LOGOUT" Value="LOGOUT"></asp:MenuItem>
+        </Items>
+    </asp:Menu>
+    <hr />
+    <hr />
+    <h1>Access Denied</h1>
+    <br/>
+    <h3>You dont have enough rights to gain the access of this page</h3>
+</body>
+</html>

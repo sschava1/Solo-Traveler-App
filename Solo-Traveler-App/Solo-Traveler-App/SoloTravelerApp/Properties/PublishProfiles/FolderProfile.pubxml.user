@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_NewBackgroundProfile>True</_NewBackgroundProfile>
+    <_PublishTargetUrl>C:\Users\Shirish\Desktop\Deploy</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AccessDenied.aspx">
+      <publishTime>07/02/2017 03:28:28</publishTime>
+    </File>
+    <File Include="AccessDenied.html">
+      <publishTime>07/02/2017 02:35:46</publishTime>
+    </File>
+    <File Include="App_Data/CrimeData.xslt">
+      <publishTime>07/02/2017 01:50:02</publishTime>
+    </File>
+    <File Include="App_Data/NearestStore.xslt">
+      <publishTime>07/02/2017 01:50:05</publishTime>
+    </File>
+    <File Include="App_Data/Staff.xml">
+      <publishTime>07/02/2017 15:29:14</publishTime>
+    </File>
+    <File Include="App_Data/StaffPromDem.xslt">
+      <publishTime>07/02/2017 01:50:10</publishTime>
+    </File>
+    <File Include="App_Data/Users.xml">
+      <publishTime>07/02/2017 18:22:39</publishTime>
+    </File>
+    <File Include="App_Data/UsersInfo.xslt">
+      <publishTime>07/02/2017 01:50:20</publishTime>
+    </File>
+    <File Include="App_Data/UsersPromDem.xslt">
+      <publishTime>07/02/2017 01:50:22</publishTime>
+    </File>
+    <File Include="assets/css/common.css">
+      <publishTime>07/02/2017 06:59:53</publishTime>
+    </File>
+    <File Include="assets/css/form.css">
+      <publishTime>06/29/2017 16:35:43</publishTime>
+    </File>
+    <File Include="assets/javascript/locinfo.js">
+      <publishTime>06/30/2017 00:55:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>12/13/2016 03:10:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/SoloTravelerApp.dll">
+      <publishTime>07/02/2017 19:52:03</publishTime>
+    </File>
+    <File Include="bin/UtilitiesLibrary.dll">
+      <publishTime>07/02/2017 07:12:14</publishTime>
+    </File>
+    <File Include="bin/UtilitiesLibrary.dll.config">
+      <publishTime>07/02/2017 07:03:22</publishTime>
+    </File>
+    <File Include="EmployeeUpdatePage.aspx">
+      <publishTime>07/02/2017 17:13:41</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>07/02/2017 16:37:12</publishTime>
+    </File>
+    <File Include="locationinfo.aspx">
+      <publishTime>07/02/2017 17:12:11</publishTime>
+    </File>
+    <File Include="LogOutPage.aspx">
+      <publishTime>07/02/2017 02:09:41</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/28/2017 18:48:51</publishTime>
+    </File>
+    <File Include="PromotDemotePage.aspx">
+      <publishTime>07/02/2017 17:13:09</publishTime>
+    </File>
+    <File Include="PublicPage.aspx">
+      <publishTime>07/02/2017 16:42:49</publishTime>
+    </File>
+    <File Include="RedirectPage.aspx">
+      <publishTime>07/01/2017 18:47:58</publishTime>
+    </File>
+    <File Include="RegisterLoginPage.aspx">
+      <publishTime>07/01/2017 20:14:25</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/02/2017 18:58:55</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

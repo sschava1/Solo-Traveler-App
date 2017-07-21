@@ -1,0 +1,12 @@
+C:\Users\Shirish\documents\visual studio 2017\Projects\Assignment_5\UtilitiesLibrary\bin\Debug\UtilitiesLibrary.dll.config
+C:\Users\Shirish\documents\visual studio 2017\Projects\Assignment_5\UtilitiesLibrary\bin\Debug\UtilitiesLibrary.dll
+C:\Users\Shirish\documents\visual studio 2017\Projects\Assignment_5\UtilitiesLibrary\bin\Debug\UtilitiesLibrary.pdb
+C:\Users\Shirish\documents\visual studio 2017\Projects\Assignment_5\UtilitiesLibrary\obj\Debug\UtilitiesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Shirish\documents\visual studio 2017\Projects\Assignment_5\UtilitiesLibrary\obj\Debug\UtilitiesLibrary.dll
+C:\Users\Shirish\documents\visual studio 2017\Projects\Assignment_5\UtilitiesLibrary\obj\Debug\UtilitiesLibrary.pdb
+C:\Users\Shirish\Desktop\Assignment_5\UtilitiesLibrary\bin\Debug\UtilitiesLibrary.dll.config
+C:\Users\Shirish\Desktop\Assignment_5\UtilitiesLibrary\bin\Debug\UtilitiesLibrary.dll
+C:\Users\Shirish\Desktop\Assignment_5\UtilitiesLibrary\bin\Debug\UtilitiesLibrary.pdb
+C:\Users\Shirish\Desktop\Assignment_5\UtilitiesLibrary\obj\Debug\UtilitiesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Shirish\Desktop\Assignment_5\UtilitiesLibrary\obj\Debug\UtilitiesLibrary.dll
+C:\Users\Shirish\Desktop\Assignment_5\UtilitiesLibrary\obj\Debug\UtilitiesLibrary.pdb

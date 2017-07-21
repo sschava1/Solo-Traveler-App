@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Users>
+  <User>
+    <Name>
+      <First>Mukul</First>
+      <Last>Jadhav</Last>
+    </Name>
+    <Credential>
+      <Id>mdxj</Id>
+      <Password>UzR6WtjJIMM=</Password>
+    </Credential>
+    <Contact>
+      <Email>mdxj@gmail.com</Email>
+      <Phone>1238765490</Phone>
+    </Contact>
+  </User>
+  <User>
+    <Name>
+      <First>Neha</First>
+      <Last>Shah</Last>
+    </Name>
+    <Credential>
+      <Id>nshah</Id>
+      <Password>Tuk2G2axHZ4=</Password>
+    </Credential>
+    <Contact>
+      <Email>nshah@gmail.com</Email>
+      <Phone>8765382791</Phone>
+    </Contact>
+  </User>
+  <User>
+    <Name>
+      <First>Pushkar</First>
+      <Last>Ladhe</Last>
+    </Name>
+    <Credential>
+      <Id>pladhe</Id>
+      <Password>0DcEWfMGzFE=</Password>
+    </Credential>
+    <Contact>
+      <Email>pladhe@gmail.com</Email>
+      <Phone>8473928203</Phone>
+    </Contact>
+  </User>
+</Users>

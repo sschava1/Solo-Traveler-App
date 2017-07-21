@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="43ffedf4-7ad5-4ac4-913c-9fd08eec3f50" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://webstrar17.fulton.asu.edu/Page2/OmniWSDLServiceRef.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="OmniWSDLServiceRef.wsdl" MetadataType="Wsdl" ID="7ecfd313-1fa6-4914-8827-30d465ec6c31" SourceId="1" SourceUrl="http://webstrar17.fulton.asu.edu/Page2/OmniWSDLServiceRef.svc?wsdl" />
+    <MetadataFile FileName="OmniWSDLServiceRef.xsd" MetadataType="Schema" ID="b3e7f0f3-c4e7-4081-8b0c-0cfdd90de465" SourceId="1" SourceUrl="http://webstrar17.fulton.asu.edu/Page2/OmniWSDLServiceRef.svc?xsd=xsd0" />
+    <MetadataFile FileName="OmniWSDLServiceRef1.xsd" MetadataType="Schema" ID="876547b5-1276-4139-96fe-d16533ba71ca" SourceId="1" SourceUrl="http://webstrar17.fulton.asu.edu/Page2/OmniWSDLServiceRef.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
